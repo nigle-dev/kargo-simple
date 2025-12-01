@@ -10,7 +10,7 @@ spec:
   - name: branch
     value: main
   - name: image
-    value: docker.io/nigledev/guestbook:v0.0.1
+    value: docker.io/nigledev/guestbook
   - name: openpr
     value: "false"
   steps:

@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: docker.io/nigledev/guestbook:v0.0.1
+      repoURL: registry-1.docker.io/nigledev/guestbook
       imageSelectionStrategy: SemVer
