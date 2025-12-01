@@ -14,7 +14,7 @@ spec:
         app: guestbook-simple
     spec:
       containers:
-      - image: ghcr.io/nigle-dev/guestbook:latest
+      - image: nigledev/guestbook:v0.0.1
         name: guestbook-simple
         ports:
         - name: http
